@@ -12,36 +12,30 @@
 
 ---
 
-# 🎯 Skills Overview  
-*(Aligned in two-column layout — compact, clean, professional)*
+<br>
 
----
+# 🧠 Technical Skills  
+*(No borders · compact layout · icons close to each other)*
 
-## <table><tr><td width="40%"><b><span style="color:#00eaff;">Programming Languages</span></b></td>
-<td align="right" width="60%">
+### ⭐ Programming Languages
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,sql" height="40" />
-</td></tr></table>
+</p>
 
----
-
-## <table><tr><td width="40%"><b><span style="color:#00eaff;">Cloud, Big Data & Warehousing</span></b></td>
-<td align="right" width="60%">
+### ⭐ Cloud, Big Data & Warehousing
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,snowflake,kafka,databricks" height="40" />
-</td></tr></table>
+</p>
 
----
-
-## <table><tr><td width="40%"><b><span style="color:#00eaff;">Tools & Frameworks</span></b></td>
-<td align="right" width="60%">
+### ⭐ Tools & Frameworks
+<p align="center">
 <img src="https://skillicons.dev/icons?i=docker,git,github,airflow,linux,notion,postman,flask" height="40" />
-</td></tr></table>
+</p>
 
----
-
-## <table><tr><td width="40%"><b><span style="color:#00eaff;">IoT & Embedded Systems</span></b></td>
-<td align="right" width="60%">
+### ⭐ IoT & Embedded Systems
+<p align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" height="40" />
-</td></tr></table>
+</p>
 
 ---
 
@@ -58,8 +52,8 @@ Demonstrates strong **electronics + software integration**, IoT automation, and 
 ---
 
 ### 🔹 **Student Performance Analyzer (Python + Streamlit)**  
-Interactive dashboard analyzing student scores, ranks, and subject-wise performance.  
-Built for real-time visualization with comparisons and insights.  
+Interactive dashboard analyzing student scores, performance metrics, and insights.  
+Built for real-time visualization with comparisons and analysis.  
 👉 Project: https://github.com/Niroj7/student-performance-analyzer
 
 ---
@@ -77,22 +71,15 @@ Deployed with custom domain & GitHub Pages.
 
 ### 🔹 **AI Chatbot Assistant (Python + OpenAI API + LangChain)**  
 Building an intelligent chatbot with real-time Q&A, document support, and memory.  
-Will include Streamlit UI + optional voice interaction.  
+Future updates include Streamlit UI + voice interaction.  
 👉 Placeholder: https://github.com/Niroj7/upcoming-chatbot
 
 ---
 
 ### 🔹 **Fraud Detection Streaming Pipeline (Kafka + Spark)**  
 Simulates banking data streams and detects suspicious behavior in real-time.  
-Will later integrate ML scoring + dashboards.  
+Will integrate ML scoring + dashboards.  
 👉 Placeholder: https://github.com/Niroj7/fraud-detection-streaming
-
----
-
-### 🔹 **IoT Weather Monitoring System (ESP32 + Cloud Storage)**  
-Collects temperature, pressure, humidity and pushes to cloud dashboards.  
-Great blend of IoT + cloud + data engineering.  
-👉 Placeholder: https://github.com/Niroj7/iot-weather-system
 
 ---
 
