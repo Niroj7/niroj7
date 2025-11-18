@@ -1,9 +1,21 @@
-<h1 align="center">Hi, I'm <span style="color:#00C8FF;">Niroj Koirala</span></h1>
-<p align="center"><i>Aspiring Data Engineer passionate about cloud, big data, IoT systems, and building intelligent solutions.</i></p>
+<!-- Background (soft gradient) -->
+<div style="background: linear-gradient(to bottom, #0d1b2a, #1b263b, #415a77); padding: 25px; border-radius: 12px;">
+
+<h1 align="center" style="font-size: 40px; color:#4DD0E1;">
+  Hi, I am <span style="color:#80DEEA;">Nero Squirella</span>
+</h1>
+
+<p align="center" style="font-size: 18px; color:#E0F7FA;">
+  <i>Aspiring Data Engineer passionate about Cloud, Big Data, and scalable systems.</i>
+</p>
+
+<p align="center" style="font-size: 16px; color:#B2EBF2;">
+  <i>Graduated <b>Summa Cum Laude</b> with strong academic achievements and a deep interest in solving real-world data challenges.</i>
+</p>
 
 ---
 
-<div align="center">
+<div align="center" style="color:#E0F7FA;">
   🌐 <b>Portfolio:</b> https://nirojportfolio.in  
   📧 <b>Email:</b> nirojkoirala7@gmail.com
 </div>
@@ -14,64 +26,34 @@
 
 ### 🔤 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="40"> **Python**
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="40"> **Java**
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="40"> **C++**
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="40"> **JavaScript**
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="40"> **HTML**
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="40"> **CSS**
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" width="250">
 </p>
 
 ---
 
 ### ☁️ Cloud, Big Data & Warehousing
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" width="45"> **AWS**
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" width="45"> **Azure**
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="25"> **Snowflake**
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="25"> **Databricks**
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Spark-E35A16?style=for-the-badge&logo=apachespark&logoColor=white" height="25"> **Spark**
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25"> **Kafka**
+  <img src="https://skillicons.dev/icons?i=aws,azure" width="150">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Spark-E35A16?style=for-the-badge&logo=apachespark&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="28">
 </p>
 
 ---
 
 ### 🛠 Tools & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" width="45"> **Docker**
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="45"> **Git**
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="45"> **GitHub**
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="45"> **Linux**
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="45"> **VS Code**
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=arduino" width="45"> **Arduino**
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="45"> **SQL / DBMS**
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,jupyter" width="270">
 </p>
 
 ---
 
-# 🤖 IoT & Embedded Systems
+### 🤖 IoT & Embedded Systems
 <p align="center">
-  <img src="https://img.shields.io/badge/IoT-00A6A6?style=for-the-badge&logo=internet-of-things&logoColor=white" height="25"> **IoT Systems**
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="25"> **Arduino**
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Embedded-0059B3?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="25"> **Embedded C**
+  <img src="https://skillicons.dev/icons?i=arduino" width="55">
+  <img src="https://img.shields.io/badge/IoT-00A6A6?style=for-the-badge&logo=internet-of-things&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Embedded-0059B3?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="28">
 </p>
 
 ---
@@ -79,32 +61,46 @@
 # 🌟 Featured Projects
 
 ### 🚦 Smart Traffic Light System (IoT + XBee + C++)
-Real-time emergency detection + smart intersection control system.  
+A fully functional smart intersection system using sensors, emergency detection, and XBee communication.  
 🔗 GitHub: https://github.com/Niroj7/SMART-TRAFFIC-LIGHT  
 
 ---
 
 ### 📊 Student Performance Analyzer (Streamlit + Python)
-Interactive dashboard with insights, trends, and analysis features.  
+Interactive dashboard analyzing student performance, trends, and comparison logic.  
 🔗 GitHub: https://github.com/Niroj7/student-performance-analyzer  
 
 ---
 
 ### 🌐 Portfolio Website  
-Animated, modern portfolio website built with HTML/CSS/JS.  
+A modern, animated portfolio with clean UI and responsive design.  
 🔗 Live: https://nirojportfolio.in  
 🔗 GitHub: https://github.com/Niroj7/nirojkoirala.github.io  
 
 ---
 
-# 🔮 Future Work
-### 💬 Chatbot Using Python + NLP (Coming Soon)
-🔗 *Placeholder link — will add later*
+<h2 align="center" style="color:#4DD0E1; font-size: 32px;">🔮 Future Work</h2>
 
-### 📈 Real-Time Stream Processing Pipeline  
-🔗 *Placeholder*
+<p align="center" style="color:#B2EBF2; font-size: 17px;">
+Below are some upcoming projects I am actively planning and researching.
+</p>
 
-### 🧠 ML-Powered Adaptive Traffic System  
-🔗 *Placeholder*
+### 💬 Chatbot using Python + NLP (Upgrading Soon)
+A conversational chatbot using Python, NLP, and basic intent recognition to automate responses.  
+🔗 https://example.com/chatbot-program  
 
 ---
+
+### 📈 Streaming Pipeline with Kafka + Spark  
+Real-time event processing pipeline capable of handling thousands of messages per second.  
+🔗 https://example.com/stream-pipeline  
+
+---
+
+### 🧠 ML Traffic Optimization System  
+Machine learning model predicting optimal light sequences for reducing congestion.  
+🔗 https://example.com/traffic-ml  
+
+---
+
+</div>
