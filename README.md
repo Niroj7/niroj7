@@ -1,7 +1,7 @@
 <h1 align="center"><B>👋 Hello, I'm Niroj Koirala</B></h1>
 
 <p align="center">
-🎓 <I>Summa Cum Laude • B.S. in Computer Science • Minor in Business Administration </I>
+🎓 <i>Summa Cum Laude • B.S. in Computer Science • Minor in Business Administration </i>
 </p>
 
 <p align="center">
