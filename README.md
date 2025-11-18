@@ -20,10 +20,10 @@ Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-
 <table width="150%" style="border-collapse: separate; border-spacing: 0 12px;">
 
   <!-- Programming Languages -->
-  <tr>
+<tr style="height: 90px;">
     <td><b>Programming Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python" height="55" />
+      <img src="https://skillicons.dev/icons?i=python" height="155" />
       <img src="https://skillicons.dev/icons?i=java" height="55" />
       <img src="https://skillicons.dev/icons?i=cpp" height="55" />
       <img src="https://skillicons.dev/icons?i=cs" height="55" />
