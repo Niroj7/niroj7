@@ -14,32 +14,52 @@
 
 <br>
 
-# 🧠 Technical Skills  
-*(No borders · compact layout · icons close to each other)*
-
-### ⭐ Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,sql" height="40" />
+## **Programming Languages**
+<p>
+<b>➡️</b> 
+<img src="https://skillicons.dev/icons?i=python" height="35" />
+<img src="https://skillicons.dev/icons?i=java" height="35" />
+<img src="https://skillicons.dev/icons?i=cpp" height="35" />
+<img src="https://skillicons.dev/icons?i=cs" height="35" />
+<img src="https://skillicons.dev/icons?i=js" height="35" />
+<img src="https://skillicons.dev/icons?i=html" height="35" />
+<img src="https://skillicons.dev/icons?i=css" height="35" />
 </p>
 
-### ⭐ Cloud, Big Data & Warehousing
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,snowflake,kafka,databricks" height="40" />
+### **Cloud, Big Data & Warehousing**
+<p>
+<b>➡️</b> 
+<img src="https://skillicons.dev/icons?i=aws" height="35" />
+<img src="https://skillicons.dev/icons?i=azure" height="35" />
+<img src="https://skillicons.dev/icons?i=gcp" height="35" />
+<img src="https://skillicons.dev/icons?i=snowflake" height="35" />
+<img src="https://skillicons.dev/icons?i=kafka" height="35" />
+<img src="https://skillicons.dev/icons?i=databricks" height="35" />
 </p>
 
-### ⭐ Tools & Frameworks
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,airflow,linux,notion,postman,flask" height="40" />
+### **Tools & Frameworks**
+<p>
+<b>➡️</b> 
+<img src="https://skillicons.dev/icons?i=docker" height="35" />
+<img src="https://skillicons.dev/icons?i=git" height="35" />
+<img src="https://skillicons.dev/icons?i=github" height="35" />
+<img src="https://skillicons.dev/icons?i=linux" height="35" />
+<img src="https://skillicons.dev/icons?i=notion" height="35" />
+<img src="https://skillicons.dev/icons?i=postman" height="35" />
+<img src="https://skillicons.dev/icons?i=flask" height="35" />
+<img src="https://skillicons.dev/icons?i=airflow" height="35" />
 </p>
 
-### ⭐ IoT & Embedded Systems
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" height="40" />
+### **IoT & Embedded Systems**
+<p>
+<b>➡️</b> 
+<img src="https://skillicons.dev/icons?i=arduino" height="35" />
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="35" />
+<img src="https://skillicons.dev/icons?i=c" height="35" />
+<img src="https://skillicons.dev/icons?i=cpp" height="35" />
 </p>
 
 ---
-
-<br>
 
 # 🚀 Featured Projects
 
