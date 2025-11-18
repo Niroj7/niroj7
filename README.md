@@ -1,9 +1,9 @@
-<!-- DARK BACKGROUND -->
-<div align="center" style="background-color:#000000; padding: 25px; border-radius: 15px;">
+<div align="center" style="background-color:#000000; padding: 30px; border-radius: 15px;">
 
-# <span style="font-size: 48px; font-weight: 800; color:#00eaff;">Niroj Koirala</span>
+# <span style="font-size: 46px; font-weight: 900; color:#00eaff;">Niroj Koirala</span>
 
-### <i style="color:#cccccc;">Aspiring Data Engineer | Excellent Academics (Summa Cum Laude) | Passion for IoT + Big Data + Cloud</i>
+### <i style="color:#cccccc;">Aspiring Data Engineer | Summa Cum Laude (CS Major, Business Administration Minor)</i>  
+### <i style="color:#b5b5b5;">Passionate about Cloud, Big Data, IoT Systems & Real-World Problem Solving</i>
 
 ---
 
@@ -12,33 +12,36 @@
 
 ---
 
-# 🎯 Skills Overview
-
-## 🧩 Programming Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,mysql,postgresql" width="500" />
-</div>
+# 🎯 Skills Overview  
+*(Aligned in two-column layout — compact, clean, professional)*
 
 ---
 
-## ☁️ Cloud, Big Data & Warehousing
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,snowflake,kafka,databricks" width="500" />
-</div>
+## <table><tr><td width="40%"><b><span style="color:#00eaff;">Programming Languages</span></b></td>
+<td align="right" width="60%">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css,sql" height="40" />
+</td></tr></table>
 
 ---
 
-## 🛠 Tools & Frameworks
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,airflow,linux,flask,fastapi,postman,notion" width="500" />
-</div>
+## <table><tr><td width="40%"><b><span style="color:#00eaff;">Cloud, Big Data & Warehousing</span></b></td>
+<td align="right" width="60%">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,snowflake,kafka,databricks" height="40" />
+</td></tr></table>
 
 ---
 
-## 🔌 IoT & Embedded Systems
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" width="250" />
-</div>
+## <table><tr><td width="40%"><b><span style="color:#00eaff;">Tools & Frameworks</span></b></td>
+<td align="right" width="60%">
+<img src="https://skillicons.dev/icons?i=docker,git,github,airflow,linux,notion,postman,flask" height="40" />
+</td></tr></table>
+
+---
+
+## <table><tr><td width="40%"><b><span style="color:#00eaff;">IoT & Embedded Systems</span></b></td>
+<td align="right" width="60%">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp" height="40" />
+</td></tr></table>
 
 ---
 
@@ -46,59 +49,56 @@
 
 # 🚀 Featured Projects
 
-### 🔹 **Smart Traffic Light System (IoT + Arduino + Sensors)**  
-A real-time intelligent traffic controller built using ultrasonic sensors, infrared modules, and XBee wireless communication.  
-Designed to reduce road congestion through density-based signaling.  
-Demonstrates strong **hardware–software integration, embedded systems logic, and automation engineering**.  
+### 🔹 **Smart Traffic Light System (IoT + Sensors + Embedded C++) — *IEEE Published***  
+A real-time intelligent traffic system using ultrasonic sensors, IR modules, and XBee wireless communication.  
+Designed for congestion reduction using **density-based traffic signal logic**.  
+Demonstrates strong **electronics + software integration**, IoT automation, and real-time system design.  
 👉 Project: https://github.com/Niroj7/SMART-TRAFFIC-LIGHT
 
 ---
 
 ### 🔹 **Student Performance Analyzer (Python + Streamlit)**  
-Interactive dashboard analyzing scores, subject trends, and performance distribution.  
-Includes visual insights, comparisons, charts, and student ranking.  
-Shows your ability to combine **data analysis, UI design, and real-time visualization**.  
+Interactive dashboard analyzing student scores, ranks, and subject-wise performance.  
+Built for real-time visualization with comparisons and insights.  
 👉 Project: https://github.com/Niroj7/student-performance-analyzer
 
 ---
 
-### 🔹 **Portfolio Website (HTML/CSS/JS)**  
-A clean, modern website showcasing your academics, IoT research, and projects.  
-Fully responsive and deployed with GitHub Pages + Custom Domain.  
-Optimized for recruiters and hiring managers.  
+### 🔹 **Personal Portfolio Website (HTML/CSS/JS)**  
+Professional portfolio showcasing academics, projects, and IoT research.  
+Deployed with custom domain & GitHub Pages.  
 👉 Website: https://nirojportfolio.in
 
 ---
 
 <br>
 
-# 🧪 Upcoming Work
+# 🔧 Other Projects (Work In Progress)
 
-### 🔹 **AI Chatbot Assistant (Python + LangChain + OpenAI API)**  
-A conversational AI tool to answer questions, recommend topics, and provide real-time help.  
-Will feature voice input and Streamlit-based UI for interactive use.  
-👉 Placeholder Link: https://github.com/Niroj7/upcoming-chatbot
+### 🔹 **AI Chatbot Assistant (Python + OpenAI API + LangChain)**  
+Building an intelligent chatbot with real-time Q&A, document support, and memory.  
+Will include Streamlit UI + optional voice interaction.  
+👉 Placeholder: https://github.com/Niroj7/upcoming-chatbot
 
 ---
 
 ### 🔹 **Fraud Detection Streaming Pipeline (Kafka + Spark)**  
-Simulates bank transactions and identifies unusual patterns using streaming analytics.  
-Later versions will include ML scoring and real-time dashboards.  
-👉 Placeholder Link: https://github.com/Niroj7/fraud-detection-streaming
+Simulates banking data streams and detects suspicious behavior in real-time.  
+Will later integrate ML scoring + dashboards.  
+👉 Placeholder: https://github.com/Niroj7/fraud-detection-streaming
 
 ---
 
-### 🔹 **IoT Weather Monitoring System (ESP32 + Cloud Dashboard)**  
-Collects humidity, pressure, and temperature data and streams to cloud for visualization.  
-Combines IoT + cloud + data engineering in a single project.  
-👉 Placeholder Link: https://github.com/Niroj7/iot-weather-system
+### 🔹 **IoT Weather Monitoring System (ESP32 + Cloud Storage)**  
+Collects temperature, pressure, humidity and pushes to cloud dashboards.  
+Great blend of IoT + cloud + data engineering.  
+👉 Placeholder: https://github.com/Niroj7/iot-weather-system
 
 ---
 
 <br>
 
-# 🔗 Want More Projects?
-👉 **Visit My Website for full project list:**  
-**https://nirojportfolio.in**
+# 🔗 Want More?  
+👉 **See full project list:** https://nirojportfolio.in
 
 </div>
