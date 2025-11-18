@@ -15,96 +15,87 @@ Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-
 
 ---
 
-## 💻 Technical Skills
+## 💻 <strong style="font-size: 24px;">Programming Languages</strong>
 
-<table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" height="65" />
+<img src="https://skillicons.dev/icons?i=java" height="65" />
+<img src="https://skillicons.dev/icons?i=cpp" height="65" />
+<img src="https://skillicons.dev/icons?i=cs" height="65" />
+<img src="https://skillicons.dev/icons?i=js" height="65" />
+<img src="https://skillicons.dev/icons?i=html" height="65" />
+<img src="https://skillicons.dev/icons?i=css" height="65" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="65" />
+</p>
 
-  <!-- Programming Languages -->
-  <tr>
-    <td><b>Programming Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python" height="55" />
-      <img src="https://skillicons.dev/icons?i=java" height="55" />
-      <img src="https://skillicons.dev/icons?i=cpp" height="55" />
-      <img src="https://skillicons.dev/icons?i=cs" height="55" />
-      <img src="https://skillicons.dev/icons?i=js" height="55" />
-      <img src="https://skillicons.dev/icons?i=html" height="55" />
-      <img src="https://skillicons.dev/icons?i=css" height="55" />
-      <img src="https://skillicons.dev/icons?i=sql" height="55" />
-    </td>
-  </tr>
+---
 
-  <!-- Cloud & Big Data -->
-  <tr>
-    <td><b>Cloud, Big Data & Warehousing</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws" height="55" />
-      <img src="https://skillicons.dev/icons?i=azure" height="55" />
-      <img src="https://skillicons.dev/icons?i=gcp" height="55" />
-      <img src="https://skillicons.dev/icons?i=snowflake" height="55" />
-      <img src="https://skillicons.dev/icons?i=databricks" height="55" />
-      <img src="https://skillicons.dev/icons?i=kafka" height="55" />
-      <img src="https://skillicons.dev/icons?i=postgres" height="55" />
-    </td>
-  </tr>
+## ☁️ <strong style="font-size: 24px;">Cloud, Big Data & Warehousing</strong>
 
-  <!-- Tools & Frameworks -->
-  <tr>
-    <td><b>Tools & Frameworks</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" height="55" />
-      <img src="https://skillicons.dev/icons?i=git" height="55" />
-      <img src="https://skillicons.dev/icons?i=github" height="55" />
-      <img src="https://skillicons.dev/icons?i=linux" height="55" />
-      <img src="https://skillicons.dev/icons?i=notion" height="55" />
-      <img src="https://skillicons.dev/icons?i=postman" height="55" />
-      <img src="https://skillicons.dev/icons?i=airflow" height="55" />
-      <img src="https://skillicons.dev/icons?i=flask" height="55" />
-      <img src="https://skillicons.dev/icons?i=figma" height="55" />
-    </td>
-  </tr>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws" height="65" />
+<img src="https://skillicons.dev/icons?i=azure" height="65" />
+<img src="https://skillicons.dev/icons?i=gcp" height="65" />
+<img src="https://skillicons.dev/icons?i=snowflake" height="65" />
+<img src="https://skillicons.dev/icons?i=databricks" height="65" />
+<img src="https://skillicons.dev/icons?i=kafka" height="65" />
+<img src="https://skillicons.dev/icons?i=postgres" height="65" />
+</p>
 
-  <!-- IoT & Embedded -->
-  <tr>
-    <td><b>IoT & Embedded Systems</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=arduino" height="55" />
-      <img src="https://skillicons.dev/icons?i=raspberrypi" height="55" />
-      <img src="https://skillicons.dev/icons?i=c" height="55" />
-      <img src="https://skillicons.dev/icons?i=cpp" height="55" />
-      <img src="https://skillicons.dev/icons?i=bash" height="55" />
-    </td>
-  </tr>
+---
 
-</table>
+## 🧰 <strong style="font-size: 24px;">Tools & Frameworks</strong>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker" height="65" />
+<img src="https://skillicons.dev/icons?i=git" height="65" />
+<img src="https://skillicons.dev/icons?i=github" height="65" />
+<img src="https://skillicons.dev/icons?i=linux" height="65" />
+<img src="https://skillicons.dev/icons?i=notion" height="65" />
+<img src="https://skillicons.dev/icons?i=postman" height="65" />
+<img src="https://skillicons.dev/icons?i=airflow" height="65" />
+<img src="https://skillicons.dev/icons?i=figma" height="65" />
+</p>
+
+---
+
+## 🔌 <strong style="font-size: 24px;">IoT & Embedded Systems</strong>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino" height="65" />
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="65" />
+<img src="https://skillicons.dev/icons?i=c" height="65" />
+<img src="https://skillicons.dev/icons?i=cpp" height="65" />
+<img src="https://skillicons.dev/icons?i=bash" height="65" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Smart Traffic Light System (IEEE Published)
-An award-winning IoT + Embedded Systems project using sensors, Arduino, and XBee mesh communication, optimizing real-time emergency traffic flow.  
-👉 **GitHub:** https://github.com/Niroj7/SMART-TRAFFIC-LIGHT
+Award-winning IoT and embedded systems project leveraging Arduino, sensors, and XBee mesh communication for emergency traffic optimization.  
+👉 GitHub: https://github.com/Niroj7/SMART-TRAFFIC-LIGHT  
 
 ### 🔹 Student Performance Analyzer  
-A Streamlit dashboard analyzing student grades, performance trends, and subject-level metrics using Python and Pandas.  
-👉 **GitHub:** https://github.com/Niroj7/student-performance-analyzer  
+Streamlit dashboard analyzing academic metrics using Python, Pandas, and visualization libraries.  
+👉 GitHub: https://github.com/Niroj7/student-performance-analyzer  
 
 ### 🔹 Personal Portfolio Website  
-A custom-designed portfolio built with HTML/CSS featuring neon UI, projects, certifications & resume.  
-👉 **Website:** https://nirojportfolio.in  
+Neon-themed custom website showcasing projects, certifications, and resume.  
+👉 https://nirojportfolio.in  
 
 ---
 
 ## 🧠 Upcoming Work
 
 ### 🤖 AI Chatbot Assistant  
-Building an interactive chatbot with NLP (spaCy), Python, and vector embeddings. Designed for answering queries and summarizing documents.
+Building a Python-based chatbot using NLP, embeddings, and conversational workflows.
 
-### 🏗️ Cloud Data Pipeline (Snowflake + dbt + Airflow)  
-Developing an end-to-end ELT pipeline using Snowflake warehouse, dbt transformations, and Airflow orchestration.
+### ☁️ Cloud Data Pipeline  
+Developing a fully automated Snowflake + dbt + Airflow ELT pipeline.
 
-### 📡 IoT Anomaly Detection (Edge + Cloud)  
-A hybrid system combining sensor-level Python scripts with a cloud analytics layer to detect unusual environmental patterns in real time.
+### 📡 IoT Anomaly Detection  
+Hybrid local-sensor + cloud analytics system for real-time anomaly detection.
 
 ---
