@@ -1,21 +1,21 @@
-<!-- Background (soft gradient) -->
-<div style="background: linear-gradient(to bottom, #0d1b2a, #1b263b, #415a77); padding: 25px; border-radius: 12px;">
+<!-- Background Wrapper -->
+<div style="background: linear-gradient(to bottom, #0b1e2d, #112637, #1b3349, #27475c); padding: 25px; border-radius: 14px;">
 
-<h1 align="center" style="font-size: 40px; color:#4DD0E1;">
-  Hi, I am <span style="color:#80DEEA;">NIROJ KOIRALA</span>
+<h1 align="center" style="font-size: 42px; color:#4DD0E1;">
+  Hi, I am <span style="color:#9CF0FF;">Niroj Koirala</span>
 </h1>
 
-<p align="center" style="font-size: 18px; color:#E0F7FA;">
-  <i>Aspiring Data Engineer passionate about Cloud, Big Data, and scalable systems.</i>
+<p align="center" style="font-size: 18px; color:#C9F8FF;">
+  <i>Aspiring Data Engineer passionate about Cloud, Big Data, IoT, and building intelligent systems that solve real-world problems.</i>
 </p>
 
-<p align="center" style="font-size: 16px; color:#B2EBF2;">
-  <i>Graduated <b>Summa Cum Laude</b> with strong academic achievements and a deep interest in solving real-world data challenges.</i>
+<p align="center" style="font-size: 16px; color:#A6ECF5;">
+  <i>Graduated <b>Summa Cum Laude</b> with strong academic performance and deep interest in scalable data solutions and smart automation.</i>
 </p>
 
 ---
 
-<div align="center" style="color:#E0F7FA;">
+<div align="center" style="color:#D5F7FF;">
   🌐 <b>Portfolio:</b> https://nirojportfolio.in  
   📧 <b>Email:</b> nirojkoirala7@gmail.com
 </div>
@@ -26,7 +26,7 @@
 
 ### 🔤 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" width="250">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" width="300">
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ### 🛠 Tools & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,jupyter" width="270">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,jupyter" width="280">
 </p>
 
 ---
@@ -61,45 +61,45 @@
 # 🌟 Featured Projects
 
 ### 🚦 Smart Traffic Light System (IoT + XBee + C++)
-A fully functional smart intersection system using sensors, emergency detection, and XBee communication.  
+Real-time emergency detection + intelligent traffic flow control using sensors and wireless communication.  
 🔗 GitHub: https://github.com/Niroj7/SMART-TRAFFIC-LIGHT  
 
 ---
 
 ### 📊 Student Performance Analyzer (Streamlit + Python)
-Interactive dashboard analyzing student performance, trends, and comparison logic.  
+Interactive dashboard with visual reports, performance insights, and comparison logic.  
 🔗 GitHub: https://github.com/Niroj7/student-performance-analyzer  
 
 ---
 
 ### 🌐 Portfolio Website  
-A modern, animated portfolio with clean UI and responsive design.  
+Modern, responsive personal portfolio with clean UI and animations.  
 🔗 Live: https://nirojportfolio.in  
 🔗 GitHub: https://github.com/Niroj7/nirojkoirala.github.io  
 
 ---
 
-<h2 align="center" style="color:#4DD0E1; font-size: 32px;">🔮 Future Work</h2>
+<h2 align="center" style="color:#73E8FF; font-size: 32px;">🔮 Future Work</h2>
 
-<p align="center" style="color:#B2EBF2; font-size: 17px;">
-Below are some upcoming projects I am actively planning and researching.
+<p align="center" style="color:#C9F8FF; font-size: 17px;">
+Exciting future projects I plan to build and improve upon.
 </p>
 
-### 💬 Chatbot using Python + NLP (Upgrading Soon)
-A conversational chatbot using Python, NLP, and basic intent recognition to automate responses.  
-🔗 https://example.com/chatbot-program  
+### 💬 Chatbot using Python + NLP  
+A conversational chatbot using NLP, intent recognition, and custom-trained responses.  
+🔗 https://example.com/chatbot-mini-project  
 
 ---
 
-### 📈 Streaming Pipeline with Kafka + Spark  
-Real-time event processing pipeline capable of handling thousands of messages per second.  
-🔗 https://example.com/stream-pipeline  
+### 📈 Streaming Pipeline: Kafka + Spark  
+High-throughput real-time pipeline for event processing and analytics at scale.  
+🔗 https://example.com/realtime-stream  
 
 ---
 
-### 🧠 ML Traffic Optimization System  
-Machine learning model predicting optimal light sequences for reducing congestion.  
-🔗 https://example.com/traffic-ml  
+### 🧠 ML-Based Traffic Optimization System  
+A machine learning model predicting optimal signal timing to reduce traffic congestion.  
+🔗 https://example.com/traffic-optimizer  
 
 ---
 
