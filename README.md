@@ -17,59 +17,75 @@ Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-
 
 ## 💻 Technical Skills
 
-<table>
+
+
+ 
+
+ ## 💻 Technical Skills
+
+<table width="100%" style="border-collapse: separate; border-spacing: 0 12px;">
 
   <!-- Programming Languages -->
-  <tr>
-    <td><b>Programming Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python" height="55" />
-      <img src="https://skillicons.dev/icons?i=java" height="55" />
-      <img src="https://skillicons.dev/icons?i=cpp" height="55" />
-      <img src="https://skillicons.dev/icons?i=cs" height="55" />
-      <img src="https://skillicons.dev/icons?i=js" height="55" />
-      <img src="https://skillicons.dev/icons?i=html" height="55" />
-      <img src="https://skillicons.dev/icons?i=css" height="55" />
-      <img src="https://skillicons.dev/icons?i=sql" height="55" />
+  <tr style="height: 90px;">
+    <td width="30%" style="font-size: 18px; font-weight: bold; vertical-align: middle;">
+      Programming Languages
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=python" height="65" />
+      <img src="https://skillicons.dev/icons?i=java" height="65" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="65" />
+      <img src="https://skillicons.dev/icons?i=cs" height="65" />
+      <img src="https://skillicons.dev/icons?i=js" height="65" />
+      <img src="https://skillicons.dev/icons?i=html" height="65" />
+      <img src="https://skillicons.dev/icons?i=css" height="65" />
+      <img src="https://skillicons.dev/icons?i=sql" height="65" />
     </td>
   </tr>
 
   <!-- Cloud & Big Data -->
-  <tr>
-    <td><b>Cloud, Big Data & Warehousing</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws" height="55" />
-      <img src="https://skillicons.dev/icons?i=azure" height="55" />
-      <img src="https://skillicons.dev/icons?i=gcp" height="55" />
-      <img src="https://skillicons.dev/icons?i=kafka" height="55" />
-      <img src="https://skillicons.dev/icons?i=postgres" height="55" />
+  <tr style="height: 90px;">
+    <td width="30%" style="font-size: 18px; font-weight: bold; vertical-align: middle;">
+      Cloud, Big Data & Warehousing
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=aws" height="65" />
+      <img src="https://skillicons.dev/icons?i=azure" height="65" />
+      <img src="https://skillicons.dev/icons?i=gcp" height="65" />
+      <img src="https://skillicons.dev/icons?i=snowflake" height="65" />
+      <img src="https://skillicons.dev/icons?i=databricks" height="65" />
+      <img src="https://skillicons.dev/icons?i=kafka" height="65" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="65" />
     </td>
   </tr>
 
   <!-- Tools & Frameworks -->
-  <tr>
-    <td><b>Tools & Frameworks</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" height="55" />
-      <img src="https://skillicons.dev/icons?i=git" height="55" />
-      <img src="https://skillicons.dev/icons?i=github" height="55" />
-      <img src="https://skillicons.dev/icons?i=linux" height="55" />
-      <img src="https://skillicons.dev/icons?i=notion" height="55" />
-      <img src="https://skillicons.dev/icons?i=postman" height="55" />
-      <img src="https://skillicons.dev/icons?i=flask" height="55" />
-      <img src="https://skillicons.dev/icons?i=figma" height="55" />
+  <tr style="height: 90px;">
+    <td width="30%" style="font-size: 18px; font-weight: bold; vertical-align: middle;">
+      Tools & Frameworks
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=docker" height="65" />
+      <img src="https://skillicons.dev/icons?i=git" height="65" />
+      <img src="https://skillicons.dev/icons?i=github" height="65" />
+      <img src="https://skillicons.dev/icons?i=linux" height="65" />
+      <img src="httpss://skillicons.dev/icons?i=notion" height="65" />
+      <img src="https://skillicons.dev/icons?i=postman" height="65" />
+      <img src="https://skillicons.dev/icons?i=flask" height="65" />
+      <img src="https://skillicons.dev/icons?i=figma" height="65" />
     </td>
   </tr>
 
   <!-- IoT & Embedded -->
-  <tr>
-    <td><b>IoT & Embedded Systems</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=arduino" height="55" />
-      <img src="https://skillicons.dev/icons?i=raspberrypi" height="55" />
-      <img src="https://skillicons.dev/icons?i=c" height="55" />
-      <img src="https://skillicons.dev/icons?i=cpp" height="55" />
-      <img src="https://skillicons.dev/icons?i=bash" height="55" />
+  <tr style="height: 90px;">
+    <td width="30%" style="font-size: 18px; font-weight: bold; vertical-align: middle;">
+      IoT & Embedded Systems
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=arduino" height="65" />
+      <img src="https://skillicons.dev/icons?i=raspberrypi" height="65" />
+      <img src="https://skillicons.dev/icons?i=c" height="65" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="65" />
+      <img src="https://skillicons.dev/icons?i=bash" height="65" />
     </td>
   </tr>
 
