@@ -56,7 +56,6 @@ Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-
       <img src="https://skillicons.dev/icons?i=linux" height="55" />
       <img src="https://skillicons.dev/icons?i=notion" height="55" />
       <img src="https://skillicons.dev/icons?i=postman" height="55" />
-      <img src="https://skillicons.dev/icons?i=airflow" height="55" />
       <img src="https://skillicons.dev/icons?i=flask" height="55" />
       <img src="https://skillicons.dev/icons?i=figma" height="55" />
     </td>
