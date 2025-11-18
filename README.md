@@ -3,36 +3,43 @@
   <img src="https://raw.githubusercontent.com/Niroj7/Niroj7/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Niroj Koirala</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Niroj+Koirala;Data+Engineer+%7C+Cloud+%7C+Big+Data;Python+%7C+Spark+%7C+Snowflake+%7C+AWS;Building+solutions+that+scale!">
+</h1>
+
 <p align="center">
-  <b>Data Engineer | Cloud | Big Data | AI | IoT Innovator</b><br>
   <b>Portfolio ➝ https://nirojportfolio.in</b>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+# 🌟 Featured Projects  
+Below are some of my best real-world engineering projects:
 
 ### 🚦 **Smart Traffic Light System (IoT + Embedded C++)**  
-A full IoT-based smart traffic controller integrating Arduino, sensors, XBee, boom barriers, and emergency detection.  
+IoT-based emergency detection + XBee communication + smart intersection management.  
 🔗 **GitHub:** https://github.com/Niroj7/SMART-TRAFFIC-LIGHT  
 
 ---
 
 ### 📊 **Student Performance Analyzer (Streamlit + Python)**  
-Real-time interactive student dashboard, insights, comparisons, clustering & more.  
+AI-driven dashboard for grade insights, comparisons & visualizations.  
 🔗 **GitHub:** https://github.com/Niroj7/student-performance-analyzer  
 
 ---
 
 ### 🌐 **Personal Portfolio (HTML/CSS/JS)**  
-Modern animated portfolio built for recruiters.  
-🔗 **Visit:** https://nirojportfolio.in  
+Minimal, modern animated website for recruiters.  
+🔗 **Live:** https://nirojportfolio.in  
 🔗 **GitHub:** https://github.com/Niroj7/nirojkoirala.github.io  
 
 ---
 
-# 🧠 **Languages**  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Niroj7/Niroj7/main/divider.gif" width="90%">
+</div>
+
+# 🧠 Languages  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -44,7 +51,11 @@ Modern animated portfolio built for recruiters.
 
 ---
 
-# ☁️ **Cloud, Data Engineering & Big Data Tools**  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Niroj7/Niroj7/main/divider.gif" width="90%">
+</div>
+
+# ☁️ Cloud, Big Data & Engineering Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -58,18 +69,26 @@ Modern animated portfolio built for recruiters.
 
 ---
 
-# 🛠️ **Tools & Technologies**  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Niroj7/Niroj7/main/divider.gif" width="90%">
+</div>
+
+# 🛠 Tools & Frameworks  
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Niroj7/Niroj7/main/divider.gif" width="90%">
+</div>
 
 # 📫 Contact  
 📧 **Email:** nirojkoirala7@gmail.com  
