@@ -2,7 +2,7 @@
 <div style="background: linear-gradient(to bottom, #0d1b2a, #1b263b, #415a77); padding: 25px; border-radius: 12px;">
 
 <h1 align="center" style="font-size: 40px; color:#4DD0E1;">
-  Hi, I am <span style="color:#80DEEA;">Nero Squirella</span>
+  Hi, I am <span style="color:#80DEEA;">NIROJ KOIRALA</span>
 </h1>
 
 <p align="center" style="font-size: 18px; color:#E0F7FA;">
