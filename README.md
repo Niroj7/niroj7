@@ -1,57 +1,68 @@
-<!-- Background Wrapper -->
-<div style="background: linear-gradient(to bottom, #0b1e2d, #112637, #1b3349, #27475c); padding: 25px; border-radius: 14px;">
-
-<h1 align="center" style="font-size: 42px; color:#4DD0E1;">
-  Hi, I am <span style="color:#9CF0FF;">Niroj Koirala</span>
-</h1>
-
-<p align="center" style="font-size: 18px; color:#C9F8FF;">
-  <i>Aspiring Data Engineer passionate about Cloud, Big Data, IoT, and building intelligent systems that solve real-world problems.</i>
+<!-- Animated Name -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=38&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=750&height=80&lines=NIROJ+KOIRALA;Aspiring+Data+Engineer;Cloud+%7C+Big+Data+%7C+IoT+Developer" />
 </p>
 
-<p align="center" style="font-size: 16px; color:#A6ECF5;">
-  <i>Graduated <b>Summa Cum Laude</b> with strong academic performance and deep interest in scalable data solutions and smart automation.</i>
+<p align="center" style="font-size: 16px;">
+  <i>Graduated <b>Summa Cum Laude</b> with strong academic excellence and passion for scalable data systems.</i>
 </p>
 
----
-
-<div align="center" style="color:#D5F7FF;">
-  🌐 <b>Portfolio:</b> https://nirojportfolio.in  
-  📧 <b>Email:</b> nirojkoirala7@gmail.com
+<div align="center">
+🌐 <b>Portfolio:</b> https://nirojportfolio.in  
+📧 <b>Email:</b> nirojkoirala7@gmail.com  
 </div>
 
 ---
 
 # 🎯 Skills Overview
 
-### 🔤 Programming Languages
+---
+
+## 🔤 Programming Languages
+<p align="center">
+  <img src="https://svgshare.com/i/18yA.svg" width="90%">
+</p>
+
+<!-- ICONS INSIDE -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" width="300">
 </p>
 
 ---
 
-### ☁️ Cloud, Big Data & Warehousing
+## ☁️ Cloud, Big Data & Warehousing
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure" width="150">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Spark-E35A16?style=for-the-badge&logo=apachespark&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="28">
+  <img src="https://svgshare.com/i/18yA.svg" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure" width="160">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white" height="30">
 </p>
 
 ---
 
-### 🛠 Tools & Frameworks
+## 🛠 Tools & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,jupyter" width="280">
+  <img src="https://svgshare.com/i/18yA.svg" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,jupyter" width="320">
 </p>
 
 ---
 
-### 🤖 IoT & Embedded Systems
+## 🤖 IoT & Embedded Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" width="55">
+  <img src="https://svgshare.com/i/18yA.svg" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" width="60">
   <img src="https://img.shields.io/badge/IoT-00A6A6?style=for-the-badge&logo=internet-of-things&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Embedded-0059B3?style=for-the-badge&logo=stmicroelectronics&logoColor=white" height="28">
 </p>
@@ -61,46 +72,43 @@
 # 🌟 Featured Projects
 
 ### 🚦 Smart Traffic Light System (IoT + XBee + C++)
-Real-time emergency detection + intelligent traffic flow control using sensors and wireless communication.  
+Smart intersection control w/ emergency detection and wireless communication.  
 🔗 GitHub: https://github.com/Niroj7/SMART-TRAFFIC-LIGHT  
 
 ---
 
 ### 📊 Student Performance Analyzer (Streamlit + Python)
-Interactive dashboard with visual reports, performance insights, and comparison logic.  
+Real-time dashboard for analyzing performance, trends & patterns.  
 🔗 GitHub: https://github.com/Niroj7/student-performance-analyzer  
 
 ---
 
 ### 🌐 Portfolio Website  
-Modern, responsive personal portfolio with clean UI and animations.  
+Modern neon-themed portfolio.  
 🔗 Live: https://nirojportfolio.in  
 🔗 GitHub: https://github.com/Niroj7/nirojkoirala.github.io  
 
 ---
 
-<h2 align="center" style="color:#73E8FF; font-size: 32px;">🔮 Future Work</h2>
-
-<p align="center" style="color:#C9F8FF; font-size: 17px;">
-Exciting future projects I plan to build and improve upon.
+# 🔮 Future Work  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=24&duration=2000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Upcoming+Projects+%E2%9A%A1;Always+Learning+%7C+Always+Building" />
 </p>
 
-### 💬 Chatbot using Python + NLP  
-A conversational chatbot using NLP, intent recognition, and custom-trained responses.  
-🔗 https://example.com/chatbot-mini-project  
+### 💬 Chatbot (Python + NLP)  
+Small conversational AI bot using text patterns + intent recognition.  
+🔗 https://example.com/chatbot-demo  
 
 ---
 
-### 📈 Streaming Pipeline: Kafka + Spark  
-High-throughput real-time pipeline for event processing and analytics at scale.  
-🔗 https://example.com/realtime-stream  
+### 📈 Real-Time Streaming Pipeline  
+Kafka + Spark pipeline for high-throughput event processing.  
+🔗 https://example.com/stream-engine  
 
 ---
 
-### 🧠 ML-Based Traffic Optimization System  
-A machine learning model predicting optimal signal timing to reduce traffic congestion.  
-🔗 https://example.com/traffic-optimizer  
+### 🧠 Traffic Optimization ML Model  
+Predicts traffic density & optimizes signal timing using ML.  
+🔗 https://example.com/traffic-ml  
 
 ---
-
-</div>
