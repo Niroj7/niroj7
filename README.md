@@ -1,11 +1,11 @@
 <h1 align="center"><B>👋 Hello, I'm Niroj Koirala</B></h1>
 
 <p align="center">
-🎓 <i>Summa Cum Laude • B.S. in Computer Science • Minor in Business Administration </i>
+🎓 <i><b>Summa Cum Laude • B.S. in Computer Science • Minor in Business Administration </i></b>
 </p>
 
 <p align="center">
-Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-World Problem Solving  
+<b>Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-World Problem Solving </b>
 </p>
 
 <p align="center">
@@ -96,12 +96,11 @@ A custom-designed portfolio built with HTML/CSS featuring neon UI, projects, cer
 ## 🧠 Upcoming Work
 
 ### 🤖 AI Chatbot Assistant  
-Building an interactive chatbot with NLP (spaCy), Python, and vector embeddings. Designed for answering queries and summarizing documents.
+<i>Building an interactive chatbot with NLP (spaCy), Python, and vector embeddings. Designed for answering queries and summarizing documents.</i>
 
 ### 🏗️ Cloud Data Pipeline (Snowflake + dbt + Airflow)  
-Developing an end-to-end ELT pipeline using Snowflake warehouse, dbt transformations, and Airflow orchestration.
+<i>Developing an end-to-end ELT pipeline using Snowflake warehouse, dbt transformations, and Airflow orchestration.</i>
 
 ### 📡 IoT Anomaly Detection (Edge + Cloud)  
-A hybrid system combining sensor-level Python scripts with a cloud analytics layer to detect unusual environmental patterns in real time.
+<i>A hybrid system combining sensor-level Python scripts with a cloud analytics layer to detect unusual environmental patterns in real time.</i>
 
----this is the cod ei want to strech the box both on height and width ods skills and then increase the size of icons there can you do it
