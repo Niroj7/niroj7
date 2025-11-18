@@ -1,72 +1,110 @@
 <h1 align="center">👋 Hello, I'm Niroj Koirala</h1>
 
 <p align="center">
-🎓 Summa Cum Laude — B.S. in Computer Science • Minor in Business Administration  
+🎓 Summa Cum Laude • B.S. in Computer Science • Minor in Business Administration  
 </p>
 
 <p align="center">
-Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-World Problem Solving
+Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-World Problem Solving  
 </p>
 
 <p align="center">
-🌐 <a href="https://nirojportfolio.in">Website</a> &nbsp; | &nbsp;
+🌐 <a href="https://nirojportfolio.in" target="_blank">Website</a> &nbsp; | &nbsp;
 📧 <a href="mailto:nirojkoirala7@gmail.com">nirojkoirala7@gmail.com</a>
 </p>
 
 ---
 
-## ⭐ Programming Languages
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,html,css" height="55" />
-</p>
+## 💻 Technical Skills
+
+<table>
+
+  <!-- Programming Languages -->
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" height="55" />
+      <img src="https://skillicons.dev/icons?i=java" height="55" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="55" />
+      <img src="https://skillicons.dev/icons?i=cs" height="55" />
+      <img src="https://skillicons.dev/icons?i=js" height="55" />
+      <img src="https://skillicons.dev/icons?i=html" height="55" />
+      <img src="https://skillicons.dev/icons?i=css" height="55" />
+      <img src="https://skillicons.dev/icons?i=sql" height="55" />
+    </td>
+  </tr>
+
+  <!-- Cloud & Big Data -->
+  <tr>
+    <td><b>Cloud, Big Data & Warehousing</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws" height="55" />
+      <img src="https://skillicons.dev/icons?i=azure" height="55" />
+      <img src="https://skillicons.dev/icons?i=gcp" height="55" />
+      <img src="https://skillicons.dev/icons?i=snowflake" height="55" />
+      <img src="https://skillicons.dev/icons?i=databricks" height="55" />
+      <img src="https://skillicons.dev/icons?i=kafka" height="55" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="55" />
+    </td>
+  </tr>
+
+  <!-- Tools & Frameworks -->
+  <tr>
+    <td><b>Tools & Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker" height="55" />
+      <img src="https://skillicons.dev/icons?i=git" height="55" />
+      <img src="https://skillicons.dev/icons?i=github" height="55" />
+      <img src="https://skillicons.dev/icons?i=linux" height="55" />
+      <img src="https://skillicons.dev/icons?i=notion" height="55" />
+      <img src="https://skillicons.dev/icons?i=postman" height="55" />
+      <img src="https://skillicons.dev/icons?i=airflow" height="55" />
+      <img src="https://skillicons.dev/icons?i=flask" height="55" />
+      <img src="https://skillicons.dev/icons?i=figma" height="55" />
+    </td>
+  </tr>
+
+  <!-- IoT & Embedded -->
+  <tr>
+    <td><b>IoT & Embedded Systems</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=arduino" height="55" />
+      <img src="https://skillicons.dev/icons?i=raspberrypi" height="55" />
+      <img src="https://skillicons.dev/icons?i=c" height="55" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="55" />
+      <img src="https://skillicons.dev/icons?i=bash" height="55" />
+    </td>
+  </tr>
+
+</table>
 
 ---
 
-## ☁️ Cloud, Big Data & Warehousing
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,snowflake,databricks,kafka" height="55" />
-</p>
-
----
-
-## 🧰 Tools & Frameworks
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,notion,postman,airflow" height="55" />
-</p>
-
----
-
-## 🔌 IoT & Embedded Systems
-<p align="left">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,bash" height="55" />
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔹 Smart Traffic Light System (IEEE Published)
-Award-winning IoT system using Arduino, sensors, and XBee mesh for emergency traffic optimization.  
-👉 GitHub: https://github.com/Niroj7/SMART-TRAFFIC-LIGHT  
+An award-winning IoT + Embedded Systems project using sensors, Arduino, and XBee mesh communication, optimizing real-time emergency traffic flow.  
+👉 **GitHub:** https://github.com/Niroj7/SMART-TRAFFIC-LIGHT
 
 ### 🔹 Student Performance Analyzer  
-Dashboard built with Streamlit + Python for analyzing academic performance.  
-👉 GitHub: https://github.com/Niroj7/student-performance-analyzer  
+A Streamlit dashboard analyzing student grades, performance trends, and subject-level metrics using Python and Pandas.  
+👉 **GitHub:** https://github.com/Niroj7/student-performance-analyzer  
 
 ### 🔹 Personal Portfolio Website  
-Custom-designed portfolio with neon UI, projects, and certifications.  
-👉 https://nirojportfolio.in  
+A custom-designed portfolio built with HTML/CSS featuring neon UI, projects, certifications & resume.  
+👉 **Website:** https://nirojportfolio.in  
 
 ---
 
-# 🧠 Upcoming Work
+## 🧠 Upcoming Work
+
 ### 🤖 AI Chatbot Assistant  
-Conversational chatbot using NLP + embeddings + vector search.
+Building an interactive chatbot with NLP (spaCy), Python, and vector embeddings. Designed for answering queries and summarizing documents.
 
-### 📡 IoT Anomaly Detection  
-Hybrid hardware + cloud analytics for real-time alerting.
+### 🏗️ Cloud Data Pipeline (Snowflake + dbt + Airflow)  
+Developing an end-to-end ELT pipeline using Snowflake warehouse, dbt transformations, and Airflow orchestration.
 
-### ☁️ Modern Data Pipeline  
-Automated ELT using Snowflake + dbt + Airflow.
+### 📡 IoT Anomaly Detection (Edge + Cloud)  
+A hybrid system combining sensor-level Python scripts with a cloud analytics layer to detect unusual environmental patterns in real time.
 
 ---
