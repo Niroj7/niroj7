@@ -41,8 +41,6 @@ Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-
       <img src="https://skillicons.dev/icons?i=aws" height="55" />
       <img src="https://skillicons.dev/icons?i=azure" height="55" />
       <img src="https://skillicons.dev/icons?i=gcp" height="55" />
-      <img src="https://skillicons.dev/icons?i=snowflake" height="55" />
-      <img src="https://skillicons.dev/icons?i=databricks" height="55" />
       <img src="https://skillicons.dev/icons?i=kafka" height="55" />
       <img src="https://skillicons.dev/icons?i=postgres" height="55" />
     </td>
