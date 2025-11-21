@@ -95,8 +95,6 @@ A custom-designed portfolio built with HTML/CSS featuring neon UI, projects, cer
 
 ## 🧠 Upcoming Work
 
-### 🤖 AI Chatbot Assistant  
-<i>Building an interactive chatbot with NLP (spaCy), Python, and vector embeddings. Designed for answering queries and summarizing documents.</i>
 
 ### 🏗️ Cloud Data Pipeline (Snowflake + dbt + Airflow)  
 <i>Developing an end-to-end ELT pipeline using Snowflake warehouse, dbt transformations, and Airflow orchestration.</i>
