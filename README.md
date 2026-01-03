@@ -125,7 +125,7 @@ A Streamlit dashboard that analyzes student grades, performance trends, and subj
 
 A simple and user-friendly application to track daily expenses, categorize spending, and visualize financial habits over time.
 
-**GitHub:** https://github.com/Niroj7/Personal-Expense-Tracker  
+**GitHub:** https://github.com/Niroj7/EXPENSE-TRACKER 
 
 **Tech Stack:** **Python, SQLite, CSV, Pandas, Data Visualization, Streamlit**
 
