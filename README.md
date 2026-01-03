@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-<b>Aspiring Data Engineer • Passionate about Cloud, Big Data, IoT Systems & Real-World Problem Solving </b>
+<b>Software Engineering, Full-Stack Development & Data Systems • ETL/ELT Pipelines, Cloud, Big Data, IoT & Real-World Problem Solving</b>
+
 </p>
 
 <p align="center">
@@ -79,26 +80,93 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Smart Traffic Light System (IEEE Published)
-An award-winning IoT + Embedded Systems project using sensors, Arduino, and XBee mesh communication, optimizing real-time emergency traffic flow.  
-👉 **GitHub:** https://github.com/Niroj7/SMART-TRAFFIC-LIGHT
 
-### 🔹 Student Performance Analyzer  
-A Streamlit dashboard analyzing student grades, performance trends, and subject-level metrics using Python and Pandas.  
-👉 **GitHub:** https://github.com/Niroj7/student-performance-analyzer  
+## 🔹 Smart Traffic Light System (IEEE Published)
 
-### 🔹 Personal Portfolio Website  
-A custom-designed portfolio built with HTML/CSS featuring neon UI, projects, certifications & resume.  
-👉 **Website:** https://nirojportfolio.in  
+An award-winning IoT + Embedded Systems project using sensors, Arduino, and XBee mesh communication to optimize real-time emergency traffic flow.
+
+**GitHub:** https://github.com/Niroj7/SMART-TRAFFIC-LIGHT  
+
+**Tech Stack:** **Arduino, C/C++, IoT Sensors, XBee, Embedded Systems, OpenCV**
 
 ---
 
-## 🧠 Upcoming Work
+## 🔹 Resume Analyzer (ATS-Friendly)
+
+A full-stack resume analysis tool that compares resumes against job descriptions, calculates match scores, extracts skills, and provides AI-based improvement suggestions.
+
+**GitHub:** https://github.com/Niroj7/Resume-Analyzer  
+
+**Tech Stack:** **Java, Spring Boot, REST APIs, NLP, ATS Logic, PDF/DOCX Parsing, HTML, CSS, JavaScript**
+
+---
+
+## 🔹 AI Assistant
+
+An intelligent AI-powered assistant capable of answering user queries, generating contextual responses, and assisting with everyday tasks using modern NLP models.
+
+**GitHub:** https://github.com/Niroj7/AI-Assistant  
+
+**Tech Stack:** **Python, LLMs, OpenAI API, NLP, Flask, Streamlit, REST APIs**
+
+---
+
+## 🔹 Student Performance Analyzer
+
+A Streamlit dashboard that analyzes student grades, performance trends, and subject-level metrics using structured data analysis.
+
+**GitHub:** https://github.com/Niroj7/student-performance-analyzer  
+
+**Tech Stack:** **Python, Pandas, Streamlit, Matplotlib, Data Analysis**
+
+---
+
+## 🔹 Personal Expense Tracker
+
+A simple and user-friendly application to track daily expenses, categorize spending, and visualize financial habits over time.
+
+**GitHub:** https://github.com/Niroj7/Personal-Expense-Tracker  
+
+**Tech Stack:** **Python, SQLite, CSV, Pandas, Data Visualization, Streamlit**
+
+---
+
+## 🔹 Personal Portfolio Website
+
+A custom-designed portfolio website showcasing projects, certifications, and resume with a modern neon UI design.
+
+**Website:** https://nirojportfolio.in  
+
+**Tech Stack:** **HTML, CSS, JavaScript, GitHub Pages, Responsive Design**
+
+-----------------
 
 
-### 🏗️ Cloud Data Pipeline (Snowflake + dbt + Airflow)  
-<i>Developing an end-to-end ELT pipeline using Snowflake warehouse, dbt transformations, and Airflow orchestration.</i>
 
-### 📡 IoT Anomaly Detection (Edge + Cloud)  
-<i>A hybrid system combining sensor-level Python scripts with a cloud analytics layer to detect unusual environmental patterns in real time.</i>
 
+## 🧠 🛠️ Upcoming Work
+
+
+---
+
+### 🏗️ Cloud Data Pipeline (Snowflake + dbt + Airflow)
+
+Developing an end-to-end ELT pipeline using a Snowflake data warehouse with dbt-based transformations and Airflow for workflow orchestration and monitoring.
+
+---
+
+### 📡 IoT Anomaly Detection (Edge + Cloud)
+
+Building a hybrid system that combines sensor-level Python scripts on edge devices with a cloud analytics layer to detect unusual environmental patterns in near real time.
+
+---
+
+### 🌦️ Weather Forecast Application
+
+Designing a weather forecasting application that consumes real-time and historical weather APIs to visualize forecasts, trends, and alerts through an interactive dashboard.
+
+---
+
+### 🧾 Job Application Tracker
+
+Creating a productivity-focused web application to track job applications, interview stages, follow-ups, and outcomes, helping users manage their job search efficiently.
