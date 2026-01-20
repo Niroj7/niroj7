@@ -11,7 +11,7 @@
 
 <p align="center">
 🌐 <a href="https://nirojportfolio.in" target="_blank">Website</a> &nbsp; | &nbsp;
-📧 <a href="mailto:nirojkoirala7@gmail.com">nirojkoirala7@gmail.com</a>
+📧 <a href="mailto:nirojkoirala7@gmail.com">nirojkoirala80@gmail.com</a>
 </p>
 
 ---
