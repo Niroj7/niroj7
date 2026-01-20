@@ -131,6 +131,12 @@ A simple and user-friendly application to track daily expenses, categorize spend
 
 ---
 
+### 🌦️ Weather Forecast Application
+
+Designing a weather forecasting application that consumes real-time and historical weather APIs to visualize forecasts, trends, and alerts through an interactive dashboard.
+
+---
+
 ## 🔹 Personal Portfolio Website
 
 A custom-designed portfolio website showcasing projects, certifications, and resume with a modern neon UI design.
@@ -161,11 +167,7 @@ Building a hybrid system that combines sensor-level Python scripts on edge devic
 
 ---
 
-### 🌦️ Weather Forecast Application
 
-Designing a weather forecasting application that consumes real-time and historical weather APIs to visualize forecasts, trends, and alerts through an interactive dashboard.
-
----
 
 ### 🧾 Job Application Tracker
 
