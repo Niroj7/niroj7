@@ -135,6 +135,7 @@ A simple and user-friendly application to track daily expenses, categorize spend
 
 Designing a weather forecasting application that consumes real-time and historical weather APIs to visualize forecasts, trends, and alerts through an interactive dashboard.
 
+GITHUB: https://github.com/Niroj7/Weather-Forecast
 ---
 
 ## 🔹 Personal Portfolio Website
