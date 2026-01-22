@@ -161,11 +161,6 @@ Developing an end-to-end ELT pipeline using a Snowflake data warehouse with dbt-
 
 ---
 
-### 📡 IoT Anomaly Detection (Edge + Cloud)
-
-Building a hybrid system that combines sensor-level Python scripts on edge devices with a cloud analytics layer to detect unusual environmental patterns in near real time.
-
----
 
 
 
