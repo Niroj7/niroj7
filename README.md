@@ -14,7 +14,7 @@
 📧 <a href="mailto:nirojkoirala7@gmail.com">nirojkoirala80@gmail.com</a>
 </p>
 
-------------
+-------------
 ## 💻 Technical Skills
 
 <table width="150%" style="border-collapse: separate; border-spacing: 0 12px;">
